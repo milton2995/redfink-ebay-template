@@ -1,0 +1,1 @@
+# redfink-ebay-template
